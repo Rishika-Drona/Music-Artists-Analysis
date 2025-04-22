@@ -1,4 +1,4 @@
-# Spotify Artists Analysis
+# Music Artists Analysis
 
 The purpose of this project is to analyze how different or how similar is the music that different artists on Spotify produce. The focus will be placed on disentangling the musical taste of 50 different artists from a wide range of genres. Throughout the process, I also identify different clusters of artists that share a similar musical style.
 
